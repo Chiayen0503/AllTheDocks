@@ -1,11 +1,11 @@
 # AllTheDocks
 * Step 1: download AllTheDocks dataset: 
 * Step 2: check folder structure, both ```gopro_videos/``` and ```gopro_images/``` have two subfolders:
-  - ```images/```
-  - ```csv/```
+  - ```images/``` 
+  - ```csv/``` -> save numerical data except for images
 * Step 3: check available data types for ```gopro_videos/``` and ```gopro_images/```
 
-    | DataType | GoPro_videos | GoPro_images |
+    | DataType | ```gopro_videos``` | ```gopro_images``` |
     | -------- | ------------ | ------------ |
     | Millisecond or Date/Time  | V         | V         |
     | Image  | V         | V         |
