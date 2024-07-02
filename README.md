@@ -1,5 +1,5 @@
 # AllTheDocks
-* Step 1: download AllTheDocks dataset: 
+* Step 1: download AllTheDocks dataset from [link](https://drive.google.com/drive/folders/1q3FO1b1ofJ8oQzntih3IJ4Nmo1uuAHjO?usp=share_link)
 * Step 2: check folder structure, both ```gopro_videos/``` and ```gopro_images/``` have two subfolders:
   - ```images/``` 
   - ```csv/``` -> save numerical data except for images
