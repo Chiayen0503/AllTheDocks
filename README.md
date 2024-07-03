@@ -7,8 +7,8 @@
 
     | DataType | ```gopro_videos``` | ```gopro_images``` |
     | -------- | ------------ | ------------ |
-    | Millisecond or Date/Time  | V         | V         |
     | Image  | V         | V         |
+    | Millisecond or Date/Time  | V         | V         |
     | Longitude  | V         | V         |
     | Latitude  | V     | V         |
     | Altitude  | V         | V         |
